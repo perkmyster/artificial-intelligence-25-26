@@ -1,3 +1,8 @@
 .DS_Store
-.DS_Store
-.DS_Store
+Assessments/.DS_Store
+Assessments/Assessment-2-Machine-Learning/data/fer-2013
+.venv/
+venv/
+.env/
+__pycache__/
+.ipynb_checkpoints/
